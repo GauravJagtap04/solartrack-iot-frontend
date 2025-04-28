@@ -1,6 +1,3 @@
-import "./../globals.css";
-
-import Sidebar from "@/components/Sidebar";
 import { getUserData } from "@/lib/user-utils";
 
 export const metadata = {
